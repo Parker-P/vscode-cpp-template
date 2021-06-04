@@ -1,5 +1,5 @@
 # vscode-cpp-template
-Template for making C++ apps from scratch
+Template for making C++ apps from scratch with Visual Studio Code.
 
 # Overview
 
